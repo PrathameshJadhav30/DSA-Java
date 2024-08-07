@@ -1,4 +1,4 @@
-package com.kunal;
+package com.prathamesh;
 
 import java.util.Scanner;
 
